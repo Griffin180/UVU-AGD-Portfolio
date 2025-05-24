@@ -7737,8 +7737,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 5
-  jumpForce: 4
-  gravity: -9.81
+  jumpForce: 2
+  gravity: -8
 --- !u!143 &1973359003
 CharacterController:
   m_ObjectHideFlags: 0
