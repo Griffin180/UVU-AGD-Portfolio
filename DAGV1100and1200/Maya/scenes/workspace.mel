@@ -1,8 +1,8 @@
 //Maya 2026 Project Definition
 
 workspace -fr "fluidCache" "";
-workspace -fr "JT_ATF" "";
 workspace -fr "images" "";
+workspace -fr "JT_ATF" "";
 workspace -fr "offlineEdit" "";
 workspace -fr "STEP_ATF Export" "";
 workspace -fr "furShadowMap" "";
@@ -11,8 +11,8 @@ workspace -fr "scripts" "";
 workspace -fr "DAE_FBX" "";
 workspace -fr "shaders" "";
 workspace -fr "NX_ATF" "";
-workspace -fr "furFiles" "";
 workspace -fr "CATIAV5_ATF Export" "";
+workspace -fr "furFiles" "";
 workspace -fr "OBJ" "";
 workspace -fr "PARASOLID_ATF Export" "";
 workspace -fr "FBX export" "";
@@ -41,9 +41,9 @@ workspace -fr "CATIAV4_ATF" "";
 workspace -fr "fileCache" "";
 workspace -fr "eps" "";
 workspace -fr "3dPaintTextures" "";
-workspace -fr "mel" "";
-workspace -fr "translatorData" "";
 workspace -fr "DXF_ATF Export" "";
+workspace -fr "translatorData" "";
+workspace -fr "mel" "";
 workspace -fr "particles" "particles";
 workspace -fr "DXF_ATF" "";
 workspace -fr "scene" "";
